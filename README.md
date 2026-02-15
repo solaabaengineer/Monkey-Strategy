@@ -1,4 +1,9 @@
-# Monkey Strategy ($MONKEY)
+# Monkey Strategy 
+
+![image (25)](https://github.com/user-attachments/assets/e053c4c1-e477-4040-8bd8-160026c193cc)
+
+https://x.com/MonkeyStrategyy
+
 
 Monkey Strategy is a crypto-native treasury token that routes protocol-generated creator fees into **real, transparent donations for monkey conservation**.
 
