@@ -1,0 +1,7 @@
+[package]
+name = "monkey_strategy_program"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# add Solana program dependencies here (anchor, solana-program, etc.)
